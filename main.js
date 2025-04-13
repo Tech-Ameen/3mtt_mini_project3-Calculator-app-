@@ -14,7 +14,7 @@ function appendToDisplay(input){
 
     // Ensure the display stays focused
     display.focus();
-    }
+}
 
 //for evaluation
 const equalTo = doocument.getElementById("equalTo");
